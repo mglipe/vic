@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vic/static/css/main.bf825407.css",
+    "main.css": "/vic/static/css/main.e9b9c0e5.css",
     "main.js": "/vic/static/js/main.a3c1aa43.js",
     "static/media/material-icons-two-tone.woff": "/vic/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
     "static/media/material-icons-two-tone.woff2": "/vic/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
@@ -13,11 +13,11 @@
     "static/media/material-icons-sharp.woff2": "/vic/static/media/material-icons-sharp.219aa9140e099e6c72ed.woff2",
     "static/media/material-icons.woff2": "/vic/static/media/material-icons.0c35d18bf06992036b69.woff2",
     "index.html": "/vic/index.html",
-    "main.bf825407.css.map": "/vic/static/css/main.bf825407.css.map",
+    "main.e9b9c0e5.css.map": "/vic/static/css/main.e9b9c0e5.css.map",
     "main.a3c1aa43.js.map": "/vic/static/js/main.a3c1aa43.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf825407.css",
+    "static/css/main.e9b9c0e5.css",
     "static/js/main.a3c1aa43.js"
   ]
 }
