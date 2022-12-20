@@ -14,8 +14,10 @@
   text-align: center;
   align-items: center;
   width: 50%;
-  padding-bottom: 10%;
+  padding-bottom: 5%;
   background-color: rgb(117, 7, 168);
+  margin-top: 4%;
+  border-radius: 12% 12% 0% 0%;
 }
 .title{
   color: aliceblue;
@@ -40,13 +42,9 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-
-a{
-  text-decoration: none;
-  color: black;
   font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+
 
 #botao-certo:hover{
   transition: .5s;
@@ -91,6 +89,78 @@ a{
 .botao-esquivar-5:focus{
   transform: translate(62px, -38px);
 
+}
+
+/*convite*/
+
+.container-convit{
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  background: aliceblue;
+  margin-top: 17%;
+}
+
+.parteOne{
+  background: rgb(117, 7, 168);
+  width: 50%;
+  border: 1px;
+  border-radius: 0% 20% 0% 0%;
+  
+
+}
+
+.parteTwo{
+  background: rgb(117, 7, 168);
+  width: 50%;
+  border-radius: 20% 0% 0% 0%;
+}
+
+
+/*icons*/
+.material-icons{
+  color: blueviolet;
+}
+
+#movie{
+  color: black;
+}
+/*link*/
+a{
+  color: rgb(105, 100, 100);
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.fade{
+  display: none;
+  position: absolute;
+  background: antiquewhite;
+  width: 50%;
+  height: 15%;
+  text-align: center;
+}
+
+/*convite open*/
+
+.convite-open{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  background: antiquewhite;
+  width: 50%;
+  height: 15%;
+  text-align: center;
+}
+
+.heat{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
 }
 
 
